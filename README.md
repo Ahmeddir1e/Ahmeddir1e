@@ -5,7 +5,7 @@
 💬 Interests: Backend Development · AI/ML · Cybersecurity  
 📫 Reach me: [cumhuriyet universitesi] · [LinkedIn URL]
 
-Stack
+# Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
