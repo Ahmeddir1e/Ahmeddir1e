@@ -1,6 +1,6 @@
 # Hi,
 
-🎓 Computer Engineering student @ [Your University], Turkey  
+🎓 Computer Engineering student @ [Cumhuriyet universitesi], Turkey  
 🔭 Currently building: AI-Powered Security Log Analyzer    
 💬 Interests: Backend Development · AI/ML · Cybersecurity  
 📫 Reach me: [cumhuriyet universitesi] · [LinkedIn URL]
