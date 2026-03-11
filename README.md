@@ -1,9 +1,9 @@
 # Hi,
 
-🎓 Computer Engineering student @ [Cumhuriyet universitesi], Turkey  
+🎓 Computer Engineering student @ Cumhuriyet universitesi, Turkey  
 🔭 Currently building: AI-Powered Security Log Analyzer    
 💬 Interests: Backend Development · AI/ML · Cybersecurity  
-📫 Reach me: [cumhuriyet universitesi] · [LinkedIn URL]
+📫 Reach me: [dirieahmed319@gmail.com] · [LinkedIn URL]
 
 # Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
