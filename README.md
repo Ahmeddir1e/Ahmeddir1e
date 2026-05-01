@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed 👋
+Ahmed,
 
 🎓 Computer Engineering  
 
